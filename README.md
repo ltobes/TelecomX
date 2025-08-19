@@ -30,7 +30,7 @@ El propósito de este análisis es:
 | Carpeta/Archivo               | Descripción                                                  |
 |------------------------------|--------------------------------------------------------------|
 | `TelecomX_LATAM.ipynb`      | Notebook principal con el análisis exploratorio              |
-| `images/`                    | Carpeta con gráficos exportados desde el notebook            |
+| `Images/`                    | Carpeta con gráficos exportados desde el notebook            |
 | `README.md`                  | Archivo con documentación del proyecto                       |
 
 ---
